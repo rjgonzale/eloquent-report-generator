@@ -1,5 +1,5 @@
 {
-    "name": "langleyfoxall/eloquent-report-generator",
+    "name": "rjgonzale/eloquent-report-generator",
     "description": "Generates reports from Eloquent models in CSV, PDF, Markdown, HTML, etc.",
     "type": "library",
     "license": "LGPL-3.0-only",
@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "divineomega/uxdm": "^4.0.2",
-        "illuminate/database": "^5.1|^10.0",
+        "divineomega/uxdm": "^3.5.4",
+        "illuminate/database": "^5.1.1|^7.30|^10.0",
         "php": ">=7.0",
         "divineomega/uxdm-eloquent": "^3.2"
     },
